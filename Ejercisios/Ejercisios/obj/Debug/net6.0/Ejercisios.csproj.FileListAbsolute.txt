@@ -1,0 +1,15 @@
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\bin\Debug\net6.0\Ejercisios.exe
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\bin\Debug\net6.0\Ejercisios.deps.json
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\bin\Debug\net6.0\Ejercisios.runtimeconfig.json
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\bin\Debug\net6.0\Ejercisios.dll
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\bin\Debug\net6.0\Ejercisios.pdb
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\obj\Debug\net6.0\Ejercisios.csproj.AssemblyReference.cache
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\obj\Debug\net6.0\Ejercisios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\obj\Debug\net6.0\Ejercisios.AssemblyInfoInputs.cache
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\obj\Debug\net6.0\Ejercisios.AssemblyInfo.cs
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\obj\Debug\net6.0\Ejercisios.csproj.CoreCompileInputs.cache
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\obj\Debug\net6.0\Ejercisios.dll
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\obj\Debug\net6.0\refint\Ejercisios.dll
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\obj\Debug\net6.0\Ejercisios.pdb
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\obj\Debug\net6.0\Ejercisios.genruntimeconfig.cache
+C:\Users\Caler\Documents\Ejemplos .Net\Ejercisios\Ejercisios\obj\Debug\net6.0\ref\Ejercisios.dll
